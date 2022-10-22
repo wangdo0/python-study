@@ -1,1 +1,3 @@
 python study
+깃 저장 순서
+stage > commit > push
